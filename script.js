@@ -6,119 +6,119 @@ const products = [
     name: "Gold Ring", 
     image: "images/rings/ringtest2.jpg", 
     description: "18K gold band lined with micro-diamonds for timeless elegance.",
-    price: 799,
+    price: TBD,
     category: "rings"
   },
   { 
     name: "Silver Ring", 
     image: "images/rings/ringtest1.jpg", 
     description: "A smooth sterling silver band crafted for daily sophistication.",
-    price: 199,
+    price: TBD,
     category: "rings"
   },
   {
     name: "Another Ring",
     image: "images/rings/ringtest3.jpg",
     description: "A 14K rose gold ring with diamond halo polish",
-    price: 499,
+    price: TBD,
     category: "rings"
   },
   { 
     name: "Pink Ring", 
     image: "images/rings/ringtest4.jpg", 
     description: "A smooth sterling silver band crafted for daily sophistication.",
-    price: 239,
+    price: TBD,
     category: "rings"
   },
   {
     name: "Ring Again",
     image: "images/rings/ringtest.jpg",
     description: "A 14K rose gold ring with diamond halo polish",
-    price: 250,
+    price: TBD,
     category: "rings"
   },
   { 
     name: "Diamond Necklace", 
     image: "images/necklaces/necklacetest.jpg", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
-    price: 1299,
+    price: TBD,
     category: "necklaces"
   },
   { 
     name: "Pearl Necklace", 
     image: "images/necklaces/necklacetest1.jpg", 
     description: "A 10K pearl necklace that blends classic grace with modern charm.",
-    price: 649,
+    price: TBD,
     category: "necklaces"
   },
   { 
     name: "Diamond Necklace 2", 
     image: "images/necklaces/necklacetest2.jpg", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
-    price: 1299,
+    price: TBD,
     category: "necklaces"
   },
   { 
     name: "Diamond Necklace 3", 
     image: "images/necklaces/necklacetest3.jpg", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
-    price: 1299,
+    price: TBD,
     category: "necklaces"
   },
   { 
     name: "Diamond Necklace 4", 
     image: "images/necklaces/necklacetest4.jpg", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
-    price: 1299,
+    price: TBD,
     category: "necklaces"
   },
   { 
     name: "Diamond Necklace 5", 
     image: "images/necklaces/necklacetest5.jpg", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
-    price: 1299,
-    category: "necklaces"
+    price: TBD,
+    category:"necklaces"
   },
   { 
     name: "Gold Bracelet", 
     image: "images/bracelets/braceletstest.jpg", 
     description: "24K gold bracelet with a smooth, polished finish that complements any outfit.",
-    price: 799,
+    price: TBD,
     category: "bracelets"
   },
   { 
     name: "Silver Bracelet", 
     image: "images/bracelets/braceletstest1.jpg", 
     description: "10K silver bracelet with a clean modern design, ideal for daily wear.",
-    price: 299,
+    price: TBD,
     category: "bracelets"
   },
   { 
     name: "Diamond Charm Bracelet", 
     image: "images/bracelets/braceletstest2.jpg", 
     description: "A diamond-studded charm bracelet crafted for timeless elegance.",
-    price: 999,
+    price: TBD,
     category: "bracelets"
   },
   { 
     name: "Diamond Stud Earrings", 
     image: "images/earrings/earringstest1.jpg",
     description: "14K gold diamond studs that shine from every angle — classic and elegant.",
-    price: 499,
+    price: TBD,
     category: "earrings"
   },
   { 
     name: "Pearl Drop Earrings", 
     image: "images/earrings/earringstest.jpg",
     description: "10K pearl drop earrings designed for timeless sophistication.",
-    price: 399,
+    price: TBD,
     category: "earrings"
   },
   { 
     name: "Gold Hoop Earrings", 
     image: "images/earrings/earringstest2.jpg",
     description: "24K gold hoops with a smooth polished finish — a modern essential.",
-    price: 299,
+    price: TBD,
     category: "earrings"
   }
 ];
