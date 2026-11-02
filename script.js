@@ -38,8 +38,8 @@ const products = [
     category: "rings"
   },
   { 
-    name: "Diamond Necklace", 
-    image: "images/necklaces/necklacetest.jpg", 
+    name: "String Necklace", 
+    image: "images/necklaces/string-necklace.png", 
     description: "Elegant 24K diamond necklace designed to capture every sparkle.",
     price: "TBD",
     category: "necklaces"
