@@ -48,7 +48,7 @@ const products = [
     name: "Pearl Necklace", 
     image: "images/necklaces/necklacetest1.jpg", 
     description: "A 10K pearl necklace that blends classic grace with modern charm.",
-    price: TBD,
+    price: "TBD",
     category: "necklaces"
   },
   { 
